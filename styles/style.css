@@ -1,0 +1,57 @@
+html {
+    background-color:#00539f;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    background-color:#FF9500;
+    width: 600px;
+    margin: 0 auto;
+    border: 5px solid black;
+    padding: 0 20px 20px 20px;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    font-size: 60px;
+    text-align: center;
+}
+
+p, li {
+    font-size:18px;
+    line-height:2;
+    letter-spacing:5px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+p.bold {
+    text-decoration:underline;
+}
+
+li.bold {
+    font-style: italic;
+}
+
+#plug {
+    color:blueviolet;
+}
+
+img {
+    display: block;
+    width: 70%;
+    margin: 0 auto;
+}
+
+div.coolbox {
+    border: lightblue dotted 3px;
+    padding: 20px;
+    margin: 10px;
+}
+
+.lang{
+    font-family: 'Courier New', Courier, monospace;
+}
